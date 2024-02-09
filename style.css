@@ -1,9 +1,10 @@
 /* style.css */
 
 .LandingPage {
-    
-    max-width: 1920px;
-    max-height: 1080px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 100vw;
+    max-height: 100vh;
     position: relative;
     background: linear-gradient(180deg, white 62%, #DCDBDA 100%);
 }
@@ -27,6 +28,7 @@
     height: 153px; 
     left: 102px; 
     top: 670px; 
+    margin: 10px;
     position: absolute; 
     text-align: center; 
     color: black; 
