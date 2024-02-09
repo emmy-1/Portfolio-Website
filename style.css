@@ -1,0 +1,193 @@
+/* FILEPATH: /c:/Users/eobay/OneDrive/Desktop/Portfolio/Hire me/Git Upload/Portfolio-Website/style.css */
+
+.LandingPage {
+
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  background: -o-linear-gradient(180deg,white 62% #DCDBDA 100%);
+}
+
+.Frame1 {
+    left: 836px;
+    top: 94px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    display: inline-flex;
+}
+
+.Shape {
+    width: 43px;
+    height: 21px;
+    border-radius: 148.15px;
+    border: 1px black solid;
+}
+
+.Emmanuel {
+    width: 199px;
+    height: 26px;
+    color: black;
+    font-size: 24.27px;
+    font-family: Neue Haas Grotesk Display Pro;
+    font-weight: 200;
+    text-transform: uppercase;
+    line-height: 29.12px;
+    letter-spacing: 2.43px;
+    word-wrap: break-word;
+}
+
+.Portfolio {
+    width: 244px;
+    height: 38px;
+    left: 1554px;
+    top: 68px;
+    position: absolute;
+}
+
+.Arrow1 {
+    padding-top: 8.87px;
+    padding-bottom: 6.79px;
+    padding-left: 7.78px;
+    padding-right: 10.17px;
+    left: 195.89px;
+    top: 4px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.Vector {
+    width: 16.71px;
+    height: 14.59px;
+    background: #1D1D1B;
+}
+
+.MoveAnimation {
+    width: 59px;
+    height: 560px;
+    left: 120px;
+    top: 260px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.HeyThereIMYourNewDataAnalyst {
+    width: 560px;
+    height: 59px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    color: black;
+    font-size: 24.27px;
+    font-family: Neue Haas Grotesk Display Pro;
+    font-weight: 200;
+    text-transform: uppercase;
+    line-height: 29.12px;
+    letter-spacing: 2.43px;
+    word-wrap: break-word;
+}
+
+.Frame5 {
+    left: 102px;
+    top: 284px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 19px;
+    display: inline-flex;
+}
+
+.Frame3 {
+    width: 1716px;
+    height: 443px;
+    position: relative;
+}
+
+.DataAnalyst {
+    width: 1622px;
+    height: 262px;
+    left: 47px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 269.13px;
+    font-family: Neue Haas Grotesk Display Pro;
+    font-weight: 200;
+    line-height: 220.69px;
+    word-wrap: break-word;
+}
+
+.Arrow {
+    width: 128px;
+    height: 128px;
+    left: 794px;
+    top: 212px;
+    position: absolute;
+}
+
+.Frame2 {
+    width: 1826px;
+    height: 153px;
+    left: -55px;
+    top: 331px;
+    position: absolute;
+}
+
+.ForDataDrivenOrganization {
+    width: 1716px;
+    height: 153px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 63.54px;
+    font-family: Neue Haas Grotesk Display Pro;
+    font-weight: 300;
+    line-height: 76.25px;
+    word-wrap: break-word;
+}
+
+.Vector {
+    width: 61.65px;
+    height: 70px;
+    left: 873px;
+    top: 35px;
+    position: absolute;
+    background: black;
+}
+
+.ICreateEnterpriseLevelEtlPipelinesAndInteractiveDashboardsThatSimplifyComplexInformationIntoActionableInsights {
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    font-family: Neue Haas Grotesk Display Pro;
+    font-weight: 400;
+    text-transform: uppercase;
+    word-wrap: break-word;
+}
+
+.Vector {
+    width: 149px;
+    height: 29px;
+    left: 1867px;
+    top: 615px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    background: black;
+}
+
+.LandingPage {
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+    background: linear-gradient(180deg, white 62%, #DCDBDA 100%);
+}
