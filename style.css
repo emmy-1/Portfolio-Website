@@ -60,3 +60,17 @@
     text-transform: uppercase; 
     word-wrap: break-word"
 }
+
+.heythere{
+    width: 400px; 
+    height: 29px; 
+    left: 1800px; 
+    top: 200px; 
+    position: absolute; 
+    transform: rotate(-90deg); 
+    transform-origin: 0 0; 
+    background: black";
+    font-size: 16px; 
+    font-weight: 230; 
+    font-family: Neue Haas Grotesk Display Pro;
+}
