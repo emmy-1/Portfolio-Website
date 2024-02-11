@@ -1,0 +1,45 @@
+
+body{
+    background: linear-gradient(180deg, white 62%, #DCDBDA 100%);
+    width : 95vw;
+    height: 95vh;
+}
+.datanalyst{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family:Neue Haas Grotesk Display Pro;
+    color: black; font-size: var(--p1); 
+    text-align: center;
+    font-weight: calc(300/var(--p1));
+    height: 80vh;
+    line-height: 0.9;
+    align-items:center;
+
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    font-family: Neue Haas Grotesk Display Pro;
+    color: black; font-size: var(--p4);
+}
+:root {
+    --p1: 9.8vw;
+    --p11: 6.8vw;
+    --p2: 2.7vw;
+    --p3: 1.5vw;
+    --p4: .84vw;
+    --p5: .6vw;
+    --s1: .76vw;
+    --color: #000
+}
+.Data{
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    line-height:10.0vh;
+    font-family: Neue Haas Grotesk Display Pro;
+    color: black; font-size: var(--p2);
+}

@@ -3,8 +3,8 @@
 .LandingPage {
     margin: 0px;
     padding: 0px;
-    max-width: 100vw;
-    max-height: 100vh;
+    width: auto;
+    height: auto;
     position: relative;
     background: linear-gradient(180deg, white 62%, #DCDBDA 100%);
 }
